@@ -30,7 +30,7 @@ In short, when you submit code changes, your submissions are understood to be un
 
 ## Report Bugs
 
-Please report any bugs [here](https://github.com/exadel-inc/CompreFace/issues).
+Please report any bugs [here](https://github.com/zzz-creator/CompreFace/issues).
 
 If you are reporting a bug, please specify:
 
@@ -41,7 +41,7 @@ If you are reporting a bug, please specify:
 
 ## Submit Feedback
 
-The best way to send us feedback is to file an issue at https://github.com/exadel-inc/CompreFace/issues.
+The best way to send us feedback is to file an issue at https://github.com/zzz-creator/CompreFace/issues.
 
 If you are proposing a feature, please:
 

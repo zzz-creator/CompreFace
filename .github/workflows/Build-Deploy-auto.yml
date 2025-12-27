@@ -29,7 +29,7 @@ jobs:
 
     - name: Set registry path output
       id: registry_path
-      run: echo "registry_path=${{ env.REGISTRY }}/exadel-inc/compreface/" >> $GITHUB_OUTPUT
+      run: echo "registry_path=${{ env.REGISTRY }}/zzz-creator/compreface/" >> $GITHUB_OUTPUT
 
     - name: Set tags from git output
       id: tag_vars

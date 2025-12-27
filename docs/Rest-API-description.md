@@ -839,7 +839,7 @@ curl -X POST "http://localhost:8000/api/v1/verification/verify?limit=<limit>&pre
 `since 1.2.0 version`
 
 You can use computed embedding to perform recognition and verification. To obtain embedding, you can
-use [calculator plugin](https://github.com/exadel-inc/CompreFace/blob/EFRS-1333_ability_to_send_embeddings_instead_of_the_image_for_recognition/docs/Face-services-and-plugins.md#face-plugins)
+use [calculator plugin](https://github.com/zzz-creator/CompreFace/blob/EFRS-1333_ability_to_send_embeddings_instead_of_the_image_for_recognition/docs/Face-services-and-plugins.md#face-plugins)
 in each Face service.
 The base rule is to use `Content-Type: application/json` header and send JSON in the body.
 

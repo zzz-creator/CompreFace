@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       release:
-        description: release zip (e.g., https://github.com/exadel-inc/CompreFace/releases/download/v1.0.0/CompreFace_1.0.0.zip)
+        description: release zip (e.g., https://github.com/zzz-creator/CompreFace/releases/download/v1.0.0/CompreFace_1.0.0.zip)
         required: true
       version:
         description: version (e.g., 1.0.0)

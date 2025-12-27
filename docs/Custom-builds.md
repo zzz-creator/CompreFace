@@ -72,7 +72,7 @@ libraries. So all you need to do is
    - /embedding-calculator/src/services/facescan/plugins/insightface/insightface.py
 2. Take the `docker-compose` file from `/dev` folder as a template 
 3. Specify new model names in build arguments. For more information, look
-   at [this documentation](https://github.com/exadel-inc/CompreFace/tree/master/embedding-calculator#run-service). E.g. here is a part of the
+   at [this documentation](https://github.com/zzz-creator/CompreFace/tree/master/embedding-calculator#run-service). E.g. here is a part of the
    `docker-compose` file for building with a custom model with GPU support:
 ```yaml
 compreface-core:

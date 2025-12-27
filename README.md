@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#contributing">Contributing</a>
   ·
-  <a href="https://github.com/exadel-inc/CompreFace/issues">Submit an Issue</a>
+  <a href="https://github.com/zzz-creator/CompreFace/issues">Submit an Issue</a>
   ·
   <a href="https://exadel.com/news/tag/compreface/">Blog</a>
   ·
@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
-    <img src="https://img.shields.io/github/license/exadel-inc/CompreFace" alt="GitHub license" />
+    <img src="https://img.shields.io/github/license/zzz-creator/CompreFace" alt="GitHub license" />
   </a>&nbsp;
-  <a href="https://github.com/exadel-inc/CompreFace/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/exadel-inc/CompreFace" alt="GitHub contributors" />
+  <a href="https://github.com/zzz-creator/CompreFace/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zzz-creator/CompreFace" alt="GitHub contributors" />
   </a>&nbsp;
 </p>
 <hr>
@@ -60,7 +60,7 @@
     * [Face data migration](/docs/Face-data-migration.md)
     * [User Roles System](/docs/User-Roles-System.md)
     * [Face Mask Detection Plugin](/docs/Mask-detection-plugin.md)
-    * [Kubernetes configuration](https://github.com/exadel-inc/compreface-kubernetes)
+    * [Kubernetes configuration](https://github.com/zzz-creator/compreface-kubernetes)
     * [Gathering Anonymous Statistics](/docs/Gathering-anonymous-statistics.md)
     * [Installation Options](/docs/Installation-options.md)
   * [Contributing](#contributing)
@@ -81,9 +81,9 @@ Our solution is based on state-of-the-art methods and libraries like FaceNet and
 # Screenshots
 
 <p align="center">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/7b86a96f-844b-4e4b-9456-c53f6e45f305" 
+<img src="https://github.com/zzz-creator/CompreFace/assets/3736126/7b86a96f-844b-4e4b-9456-c53f6e45f305" 
 alt="compreface-recognition-page" width=390px style="padding: 0px 10px 0px 0px;">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/51efb9d0-70cc-4902-bc3f-fd85de004b67" 
+<img src="https://github.com/zzz-creator/CompreFace/assets/3736126/51efb9d0-70cc-4902-bc3f-fd85de004b67" 
 alt="compreface-dashboard-page" width="390px" style="padding: 0px 0px 0px 10px;">
 </p>
 
@@ -92,15 +92,15 @@ alt="compreface-dashboard-page" width="390px" style="padding: 0px 0px 0px 10px;"
   <!-- have to be followed by an empty line! -->
 
 <p align="center">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/3ae0ce68-588b-4370-8eaf-32668c96fa63"
+<img src="https://github.com/zzz-creator/CompreFace/assets/3736126/3ae0ce68-588b-4370-8eaf-32668c96fa63"
 alt="compreface-verification-page" width=390px style="padding: 0px 10px 0px 0px;">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/9246702d-1c9b-4435-8098-89e0fb616b0d"
+<img src="https://github.com/zzz-creator/CompreFace/assets/3736126/9246702d-1c9b-4435-8098-89e0fb616b0d"
 alt="compreface-detection-page" width="390px" style="padding: 0px 0px 0px 10px;">
 </p>
 <p align="center">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/3a5787e6-9a85-4852-92dc-a82fe7ef8f7c" 
+<img src="https://github.com/zzz-creator/CompreFace/assets/3736126/3a5787e6-9a85-4852-92dc-a82fe7ef8f7c" 
 alt="compreface-services-page" width=390px style="padding: 0px 10px 0px 0px;">
-<img src="https://github.com/exadel-inc/CompreFace/assets/3736126/e7fd0258-2643-4cec-809d-988502eb857f" 
+<img src="https://github.com/zzz-creator/CompreFace/assets/3736126/e7fd0258-2643-4cec-809d-988502eb857f" 
 alt="compreface-wizzard-page" width="390px" style="padding: 0px 0px 0px 10px;">
 </p>
 
@@ -174,7 +174,7 @@ The system can accurately identify people even when it has only “seen” their
 ### To get started (Linux, MacOS):
 
 1. Install Docker and Docker Compose
-2. Download the archive from our latest release: https://github.com/exadel-inc/CompreFace/releases
+2. Download the archive from our latest release: https://github.com/zzz-creator/CompreFace/releases
 3. Unzip the archive
 4. Open the terminal in this folder and run this command: `docker-compose up -d`
 5. Open the service in your browser: http://localhost:8000/login
@@ -182,7 +182,7 @@ The system can accurately identify people even when it has only “seen” their
 ### To get started (Windows):
 
 1. Install Docker Desktop
-2. Download the archive from our latest release: https://github.com/exadel-inc/CompreFace/releases
+2. Download the archive from our latest release: https://github.com/zzz-creator/CompreFace/releases
 3. Unzip the archive
 4. Run Docker
 5. Open Command prompt (write `cmd` in windows search bar)
@@ -198,9 +198,9 @@ Follow this [link](/dev)
 
 | SDK        | Repository                                              |
 |------------|---------------------------------------------------------|
-| JavaScript | https://github.com/exadel-inc/compreface-javascript-sdk |
-| Python     | https://github.com/exadel-inc/compreface-python-sdk     |
-| .NET       | https://github.com/exadel-inc/compreface-net-sdk        |
+| JavaScript | https://github.com/zzz-creator/compreface-javascript-sdk |
+| Python     | https://github.com/zzz-creator/compreface-python-sdk     |
+| .NET       | https://github.com/zzz-creator/compreface-net-sdk        |
 
 # Documentation
 
@@ -210,15 +210,15 @@ More documentation is available [here](/docs)
 
 We want to improve our open-source face recognition solution, so your contributions are welcome and greatly appreciated. 
 
-* Just use CompreFace and [report](https://github.com/exadel-inc/CompreFace/issues) ideas and bugs on GitHub
-* Share knowledge and experience via posting guides and articles, or just improve our [documentation](https://github.com/exadel-inc/CompreFace/tree/master/docs)
+* Just use CompreFace and [report](https://github.com/zzz-creator/CompreFace/issues) ideas and bugs on GitHub
+* Share knowledge and experience via posting guides and articles, or just improve our [documentation](https://github.com/zzz-creator/CompreFace/tree/master/docs)
 * Create [SDKs](https://github.com/topics/compreface-sdk) for favorite programming language, we will add it to our documentation
 * Integrate CompreFace support to other platforms like [Home Assistant](https://www.home-assistant.io/) or [DreamFactory](https://www.dreamfactory.com/), we will add it to our documentation
 * [Contribute](CONTRIBUTING.md) code
 * Add [plugin](/docs/Face-services-and-plugins.md#face-plugins) to face services
 * And last, but not least, you can just give a star to our free facial recognition system on GitHub
 
-For more information, visit our [contributing](CONTRIBUTING.md) guide, or create a [discussion](https://github.com/exadel-inc/CompreFace/discussions).
+For more information, visit our [contributing](CONTRIBUTING.md) guide, or create a [discussion](https://github.com/zzz-creator/CompreFace/discussions).
 
 # License info 
 

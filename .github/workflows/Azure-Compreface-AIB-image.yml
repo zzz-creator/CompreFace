@@ -45,7 +45,7 @@ jobs:
           chmod +x /usr/local/bin/docker-compose
           docker-compose version
           chmod 666 /var/run/docker.sock
-          wget -q -O tmp.zip "https://github.com/exadel-inc/CompreFace/releases/download/v${{ env.VERSION }}/CompreFace_${{ env.VERSION }}.zip" && unzip tmp.zip && rm tmp.zip
+          wget -q -O tmp.zip "https://github.com/zzz-creator/CompreFace/releases/download/v${{ env.VERSION }}/CompreFace_${{ env.VERSION }}.zip" && unzip tmp.zip && rm tmp.zip
           sed -i "s|8000:|80:|g" docker-compose.yml
           docker-compose pull --quiet
           docker-compose up -d

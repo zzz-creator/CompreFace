@@ -1,6 +1,6 @@
 # Configuration
 
-In the [release](https://github.com/exadel-inc/CompreFace/releases)
+In the [release](https://github.com/zzz-creator/CompreFace/releases)
 archive and all custom builds, there is a `.env` file with configuration
 options for CompreFace. For production systems, we recommend looking
 through them and set up CompreFace accordingly

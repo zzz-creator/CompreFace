@@ -54,7 +54,7 @@ To install CompreFace using docker-compose just follow instructions in [getting 
 
 ## Kubernetes
 
-You can find all Kubernetes scripts in CompreFace [Kubernetes repository](https://github.com/exadel-inc/compreface-kubernetes).
+You can find all Kubernetes scripts in CompreFace [Kubernetes repository](https://github.com/zzz-creator/compreface-kubernetes).
 
 ## Single docker container
 
